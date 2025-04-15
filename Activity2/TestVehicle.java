@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 class Vehicle {
@@ -58,7 +59,7 @@ class Motorcycle extends Vehicle {
     }
 }
 
-public class Activity2 {
+public class TestVehicle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

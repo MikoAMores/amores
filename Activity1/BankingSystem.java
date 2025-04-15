@@ -1,3 +1,4 @@
+
 //Parent class bank Account
 
 class BankAccount {
@@ -117,7 +118,7 @@ System.out.println("Withdraw Amount: " + amount);
 
 //Main class to test the banking system 
 
-public class Activity1 {
+public class BankingSystem  {
    public static void main(String[] args) {
 
        //Creating a Savings Account
